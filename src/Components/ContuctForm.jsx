@@ -20,7 +20,7 @@ const ContuctForm = () => {
                     <div className='mt-5'>
                         <textarea className='py-2 px-2 shadow  md:block hidden' name="" id="" cols="60" rows="5" placeholder='Your message here'></textarea>
 
-                        <textarea className='py-2 px-2 shadow  md:hidden block' name="" id="" cols="37" rows="2" placeholder='Your message here'></textarea>
+                        <textarea className='py-2 px-2 shadow  md:hidden block rounded' name="" id="" cols="36" rows="2" placeholder='Your message here'></textarea>
                     </div>
                 </div>
 

@@ -9,7 +9,7 @@ const OurBlog = () => {
     return (
         <div className='mx-10'>
 
-            <p className='md:text-3xl md:mt-10'>Our Blog</p>
+            <p className='text-3xl md:mt-10 mt-5'>Our Blog</p>
 
             <div className='md:flex'>
 

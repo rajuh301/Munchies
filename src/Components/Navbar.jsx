@@ -4,8 +4,8 @@ import { FaBox, FaSearch } from 'react-icons/fa';
 
 const Navbar = () => {
     return (
-        <div>
-            <div className="navbar bg-black text-white px-10">
+        <div className='bg-black'>
+            <div className="navbar bg-black text-white px-10 ">
                 <div className="navbar-start">
                     <div className="dropdown">
                         <label tabIndex={0} className="btn btn-ghost lg:hidden">

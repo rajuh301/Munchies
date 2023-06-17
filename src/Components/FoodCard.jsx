@@ -13,7 +13,7 @@ const FoodCard = () => {
 
     return (
         <div className='bg-slate-200 pb-10'>
-            <div className='md:grid grid-cols-4 mx-10'>
+            <div className='md:grid grid-cols-4 mx-10 py-5'>
                 {
                     data.map(card => <ShowFoodCard
                         key={card.id}
