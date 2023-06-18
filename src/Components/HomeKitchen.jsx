@@ -3,6 +3,7 @@ import React from 'react';
 const HomeKitchen = () => {
     return (
         <div className='bg-slate-200'>
+
             <div className='mx-10'>
                 <p className=' py-5 text-3xl md:text-left text-center'>Home Kitchen</p>
 
@@ -15,7 +16,6 @@ const HomeKitchen = () => {
                 </div>
 
 
-
                 {/* ------------------------------------------- For mobile device */}
                 <div className="md:hidden flex text-center gap-[2px]">
                     <button className="btn btn-xs">All</button>
@@ -25,7 +25,6 @@ const HomeKitchen = () => {
                     <button className="btn btn-xs">Coming</button>
                 </div>
                 {/* ------------------------------------------- For mobile device */}
-
 
 
 

@@ -11,7 +11,7 @@ const OurBlog = () => {
 
             <p className='text-3xl md:mt-10 mt-5'>Our Blog</p>
 
-            <div className='md:flex'>
+            <div className='md:flex md:mt-5'>
 
 
                 <div className='md:w-1/4'>

@@ -15,7 +15,7 @@ const ShowFoodCard = ({ card }) => {
                     <div>
                         <div className='flex font-bold'>
                             <p>{name}</p>
-                            <p className='text-end mb-5'>$ {price}</p>
+                            <p className='text-end mb-1'>$ {price}</p>
                         </div>
 
                         <div className='flex'>
